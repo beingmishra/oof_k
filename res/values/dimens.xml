@@ -429,4 +429,6 @@
 
     <!-- Text padding for EmptyTextSettings -->
     <dimen name="empty_text_padding">24dp</dimen>
+
+    <dimen name="preference_divider">8dp</dimen>
 </resources>
